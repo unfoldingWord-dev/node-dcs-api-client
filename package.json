@@ -1,6 +1,6 @@
 {
     "name": "dcs_api_client",
-    "version": "1.15.11a",
+    "version": "1.16.2",
     "description": "NodeJS client for dcs_api_client",
     "repository": "/",
     "main": "api.js",
